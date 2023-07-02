@@ -1,9 +1,9 @@
 # Level name (supports minecraft color codes)
-name: null
+name: "Blazing Scaffolding"
 # Directory name inside the archive
-dirname: null
+dirname: "/"
 # Resourcepack directory (or zip archive)
-resourcepack: null
+resourcepack: "./ressources.zip"
 # Reset player data in level.dat
 reset_player: true
 # Archive all non-archived datapacks
