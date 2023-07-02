@@ -9,7 +9,7 @@ jobs:
         id: package
         uses: aksiome/minecraft-package@master
         with:
-          source: /
+          source: ./
           target: Blazing_Scaffolding_v2_1.19.zip
           config: mcwpack.yaml
       - name: Upload artifact
