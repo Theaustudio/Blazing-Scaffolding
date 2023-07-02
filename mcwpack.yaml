@@ -2,7 +2,7 @@
 name: Blazing Scaffolding
 # Directory name inside the archive
 dirname: Blazing Scaffolding
-ressourcepack: null
+resourcepack: null
 # Reset player data in level.dat
 reset_player: true
 # Archive all non-archived datapacks
